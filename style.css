@@ -1,0 +1,22 @@
+styling:#C2FFC7
+
+body{
+    background-colour:#FFFFFF;
+}
+
+header{
+    width:90%
+    border:1px color #9EDF9C;
+    padding: 40px;
+    border-radius:40px 0 40px 0;
+    margin:0auto;
+    text-algin:center;
+}
+
+header h1{
+    color:#54C392;
+}
+
+header p {
+font-style:italic;
+}
